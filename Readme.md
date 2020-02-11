@@ -1,4 +1,4 @@
-# Virtual Host generator
+# Apache2 Virtual Host generator
 
 Script ini sebenernya untuk kebutuhan pribadi dan in syaa allah sudah diuji di Ubuntu 18.04 (elementary Hera)
 
